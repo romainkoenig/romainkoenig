@@ -1,0 +1,65 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/romainkoenig/cv/commit/aa5d376fe0ec9224975efd1d0950e6e200e35fe8\"><strong>a</strong>a5d376fe0ec9224975efd1d0950e6e200e35fe8</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/romainkoenig/auth0-vue2/commit/e9bd240ed8f6fc0d2679a392e5c4e8e7fab048ae\">e9bd240</a>\n- <a href=\"https://github.com/romainkoenig/cv/commit/23228f4e67f577dd7b2bb6c9161e8cd91b1e844e\">23228f4</a>\n- <a href=\"https://github.com/romainkoenig/cv/commit/aa5d376fe0ec9224975efd1d0950e6e200e35fe8\">aa5d376</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"commit\".",
+    "body": "My favorite commit message words are:\n\n1. commit (used 5 times)\n2. grep (used 4 times)\n3. update (used 3 times)\n4. first (used 3 times)\n5. create (used 3 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ecwyne/meteor-polymer-elements/issues/27\">#27</a>: Polymer\n- <a href=\"https://github.com/richsilv/meteor-page-swiper/issues/1\">#1</a>: Add example website in Readme\n- <a href=\"https://github.com/voronianski/ngActivityIndicator/issues/8\">#8</a>: Question : cursor\n- <a href=\"https://github.com/AdmitHub/meteor-buildpack-horse/issues/157\">#157</a>: process.env.METEOR_SHELL_DIR",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/romainkoenig/settings/commit/5e2ab40d818544df8a956976d2d981b65c23a6a7\">5e2ab40</a>\n- <a href=\"https://github.com/romainkoenig/Laboratoire/commit/943c4cde63a98ccb695796353a4518de2fa20ae9\">943c4cd</a>\n- <a href=\"https://github.com/romainkoenig/auth0-vue2/commit/e9bd240ed8f6fc0d2679a392e5c4e8e7fab048ae\">e9bd240</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
