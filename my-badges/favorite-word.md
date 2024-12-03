@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. feat: (used 2 times)
-2. feat (used once)
-3. removing (used once)
-4. private (used once)
-5. dependencies (used once)
+2. create (used once)
+3. my-badges.yml (used once)
+4. add (used once)
+5. github (used once)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
