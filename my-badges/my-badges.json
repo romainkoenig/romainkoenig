@@ -7,13 +7,6 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"create\".",
-    "body": "My favorite commit message words are:\n\n1. create (used once)\n2. my-badges.yml (used once)\n3. add (used once)\n4. github (used once)\n5. badges (used once)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
